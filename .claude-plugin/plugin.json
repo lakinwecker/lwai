@@ -1,0 +1,9 @@
+{
+  "name": "lw",
+  "description": "Lakin Wecker's personal skill suite. Skills are invoked under the lw: namespace (e.g. lw:communicator).",
+  "version": "0.1.0",
+  "author": {
+    "name": "Lakin Wecker",
+    "email": "lakin.wecker@gmail.com"
+  }
+}
